@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    public void jogar(View view){
+    public void sendMessage(View view){
         TextView textResultado;
 
         textResultado = findViewById(R.id.textResultado);
